@@ -1,0 +1,5 @@
+/lib
+/bin
+.env
+/etc
+/share
